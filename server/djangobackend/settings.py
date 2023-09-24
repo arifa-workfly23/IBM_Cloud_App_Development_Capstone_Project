@@ -20,12 +20,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'ao5z(o(z@cvzodm99d32jkxa5e8a1!q_4sqss5-a%n6tg$#h$+'
+SECRET_KEY = '6sXFlVK892c-bZtacV5xEKf210JwgVjQvjwu-tVFNR3M'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["bestcarsdjangoapp.us-south.cf.appdomain.cloud", "localhost"]
+ALLOWED_HOSTS = ["161cc2f5-727a-491c-b325-ba24890cba8f-bluemix.cloudantnosqldb.appdomain.cloud", "localhost"]
 
 
 # Application definition
